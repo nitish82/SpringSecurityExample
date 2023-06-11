@@ -1,0 +1,12 @@
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/security/CustomUserDetailsService.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/service/UserService.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/config/SwaggerConfig.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/RegistrationLoginDemoApplication.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/entity/User.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/service/impl/UserServiceImpl.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/dto/UserDto.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/controller/AuthController.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/repository/UserRepository.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/repository/RoleRepository.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/config/SpringSecurity.java
+/home/nitish1/Music/Workspace/registration-login-springboot-security-thymeleaf-master/src/main/java/com/example/registrationlogindemo/entity/Role.java
